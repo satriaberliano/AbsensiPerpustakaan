@@ -2,7 +2,7 @@
 
 Tema : Aplikasi Perpustakaan
 
-Aplikasi Absensi Perpustakaan
+Aplikasi Absensi Perpustakaan dan Peminjaman Buku
 
 Nama : Satria Berliano Manzi  
 NPM : 2015061009  
